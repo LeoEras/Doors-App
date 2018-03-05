@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Doors</string>
+    <string name="helper"><bold>¡Recuerde!</bold> Para suscribirse a una puerta, pulse el botón <bold>Escanear Código</bold> y escanee la imagen QR cerca del sensor en la puerta.</string>
+    <string name="buttonQR">Escanear Código</string>
 </resources>
